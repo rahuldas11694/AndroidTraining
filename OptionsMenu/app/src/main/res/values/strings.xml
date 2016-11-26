@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OptionsMenu</string>
+    <string name="title_search">Search</string>
+    <string name="title_share">Share</string>
+    <string name="title_red"> RED</string>
+    <string name="title_blue"> blue</string>
+    <string name="title_purple"> Purple</string>
+    <string name="title_yellow"> Yellow</string>
+    <string name="title_green"> Green</string>
+
+
+
+</resources>
+

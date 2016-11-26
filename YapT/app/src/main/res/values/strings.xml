@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">YapT</string>
+    <string name="hint_message">Enter a message</string>
+    <string name="button_text">send</string>
+
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send"> Send</string>
+    <string name="gMap">GoogleMap</string>
+    <string name="google_maps_key">GOOGLE MAP</string>
+
+    </resources>
